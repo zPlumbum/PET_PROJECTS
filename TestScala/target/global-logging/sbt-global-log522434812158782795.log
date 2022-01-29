@@ -1,0 +1,13 @@
+[debug] > Exec(a = 5, None, None)
+[error] Expected ID character
+[error] Not a valid command: a
+[error] Expected 'addPluginSbtFile'
+[error] Expected 'all'
+[error] Expected project ID
+[error] Expected configuration
+[error] Expected ':'
+[error] Expected key
+[error] Not a valid key: a
+[error] a = 5
+[error]  ^
+[debug] > Exec(idea-shell, None, None)
